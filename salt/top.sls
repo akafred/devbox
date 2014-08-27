@@ -1,5 +1,5 @@
 base:
   '*':
-    - python
+    - base
     - sublime
     - geany-projects
